@@ -161,12 +161,12 @@ section {
 
 /* Background images */
 .section-a {
-  background-image: url("../img/running-a.webp");
+  background-image: url("../pratiquer-running-626x321.jpg");
  /* TODO 8 https://www.w3schools.com/cssref/pr_background-image.php */
 }
 
 .section-b {
-  background-image: url('../img/randonee-a.webp');
+  background-image: url('../ete-running-15.jpg');
 }
 
 
